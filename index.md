@@ -1,8 +1,8 @@
-# 🌐 Fundamentos da Internet e Redes
+# ⌨️ Fundamentos da Internet e Redes
 
 ---
 
-### 🏗️ Evolução e Estrutura
+### 💻 Evolução e Estrutura
 
 * **Origem (ARPANET):** A rede nasceu descentralizada e militar, evoluindo para a Internet global através da padronização do TCP/IP.
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 🏗️ Conceitos e Diferenças
+### 💻 Conceitos e Diferenças
 
 * **Git vs. GitHub:** O Git é o sistema de versionamento que roda na sua máquina já o GitHub, é a plataforma na nuvem que hospeda o código e facilita a colaboração.
 
@@ -74,7 +74,7 @@
 
 ---
 
-### 🤝 Fluxo de Trabalho e Colaboração
+### 💻 Fluxo de Trabalho e Colaboração
 
 * **Branches (Ramos):** Linhas paralelas de desenvolvimento que permitem criar novas funções sem quebrar o código principal (Main/Master).
 
@@ -84,9 +84,10 @@
 
 ---
 
-### 🛡️ Boas Práticas e Organização
+### 💻 Boas Práticas e Organização
 
 * **.gitignore:** Um arquivo essencial que lista o que o Git não deve rastrear (como senhas, arquivos de sistema ou pastas de build) 🙈.
 
 * **Conflitos:** Ocorrem quando duas pessoas editam a mesma linha de código; o Git pausa e pede para você escolher qual versão manter.
-```
+
+---
